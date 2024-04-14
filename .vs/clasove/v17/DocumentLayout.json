@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visual studio\\clasove\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA959300-1F43-498F-8620-4D2016A14478}|zad 3\\zad 3.csproj|e:\\visual studio\\clasove\\zad 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA959300-1F43-498F-8620-4D2016A14478}|zad 3\\zad 3.csproj|solutionrelative:zad 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA959300-1F43-498F-8620-4D2016A14478}|zad 3\\zad 3.csproj|e:\\visual studio\\clasove\\zad 3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA959300-1F43-498F-8620-4D2016A14478}|zad 3\\zad 3.csproj|solutionrelative:zad 3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BDD1BF-6469-4C56-9F82-33544D8F176B}|2 zad\\2 zad.csproj|e:\\visual studio\\clasove\\2 zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BDD1BF-6469-4C56-9F82-33544D8F176B}|2 zad\\2 zad.csproj|solutionrelative:2 zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D7BA88-F808-4BBE-A492-25404C716630}|1 zad\\1 zad.csproj|e:\\visual studio\\clasove\\1 zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D7BA88-F808-4BBE-A492-25404C716630}|1 zad\\1 zad.csproj|solutionrelative:1 zad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BDD1BF-6469-4C56-9F82-33544D8F176B}|2 zad\\2 zad.csproj|e:\\visual studio\\clasove\\2 zad\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BDD1BF-6469-4C56-9F82-33544D8F176B}|2 zad\\2 zad.csproj|solutionrelative:2 zad\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D7BA88-F808-4BBE-A492-25404C716630}|1 zad\\1 zad.csproj|e:\\visual studio\\clasove\\1 zad\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D7BA88-F808-4BBE-A492-25404C716630}|1 zad\\1 zad.csproj|solutionrelative:1 zad\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\visual studio\\clasove\\zad 3\\Person.cs",
+              "RelativeDocumentMoniker": "zad 3\\Person.cs",
+              "ToolTip": "E:\\visual studio\\clasove\\zad 3\\Person.cs",
+              "RelativeToolTip": "zad 3\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:29:28.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\clasove\\zad 3\\Program.cs",
+              "RelativeDocumentMoniker": "zad 3\\Program.cs",
+              "ToolTip": "E:\\visual studio\\clasove\\zad 3\\Program.cs",
+              "RelativeToolTip": "zad 3\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:18:09.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\visual studio\\clasove\\2 zad\\Person.cs",
+              "RelativeDocumentMoniker": "2 zad\\Person.cs",
+              "ToolTip": "E:\\visual studio\\clasove\\2 zad\\Person.cs",
+              "RelativeToolTip": "2 zad\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:06:40.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\clasove\\2 zad\\Program.cs",
+              "RelativeDocumentMoniker": "2 zad\\Program.cs",
+              "ToolTip": "E:\\visual studio\\clasove\\2 zad\\Program.cs",
+              "RelativeToolTip": "2 zad\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:01:57.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "person.cs",
+              "DocumentMoniker": "E:\\visual studio\\clasove\\1 zad\\person.cs",
+              "RelativeDocumentMoniker": "1 zad\\person.cs",
+              "ToolTip": "E:\\visual studio\\clasove\\1 zad\\person.cs",
+              "RelativeToolTip": "1 zad\\person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:00:40.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\visual studio\\clasove\\1 zad\\Program.cs",
+              "RelativeDocumentMoniker": "1 zad\\Program.cs",
+              "ToolTip": "E:\\visual studio\\clasove\\1 zad\\Program.cs",
+              "RelativeToolTip": "1 zad\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:59:36.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
